@@ -17,4 +17,4 @@ Dependencies are listed in the `requirements.txt` file. Which can be installed w
 
 ```pip install -r requirements.txt```
 
-
+You will also need an R installation with packages `lme4`, `lmerTest`, and `lavaan` which will be accessed through the `rpy2` interface.
