@@ -9,8 +9,7 @@ The original preprint is available at [PsyArxiv](https://psyarxiv.com/bd9wn)
 The Notebook folder includes the analyses to reproduce the results and figures in the paper. 
 
 # Data availability
-The data necessary for running the notebooks are available at https://osf.io/ba3ny/
-
+The data necessary for running the notebooks are available at https://osf.io/6ejvg/
 
 # Dependencies
 Dependencies are listed in the `requirements.txt` file. Which can be installed with 
