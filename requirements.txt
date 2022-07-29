@@ -326,7 +326,7 @@ scikit-learn==0.20.0
 -e /Users/jinhyuncheong/anaconda2/envs/py36/lib/python3.6/site-packages
 scikit-surprise==1.0.6
 scipy==1.1.0
-Scrapy==1.5.1
+Scrapy==2.6.2
 scrapy-fake-useragent==1.1.0
 scrapy-proxies==0.4
 scrapyd==1.2.0
