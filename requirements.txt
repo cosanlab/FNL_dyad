@@ -317,7 +317,7 @@ rope-py3k==0.9.4.post1
 rpy2==3.0.0
 rsa==3.4.2
 s3transfer==0.1.13
-sanic==0.7.0
+sanic==20.12.7
 Sanic-Auth==0.2.0
 scandir==1.7
 scikit-image==0.14.2
