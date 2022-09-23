@@ -257,7 +257,7 @@ prompt-toolkit==1.0.14
 proto-google-cloud-datastore-v1==0.90.4
 proto-google-cloud-error-reporting-v1beta1==0.15.3
 proto-google-cloud-logging-v2==0.91.3
-protobuf==3.7.0
+protobuf==3.18.3
 prov==1.5.0
 psychopy-tools==0.1.0
 ptyprocess==0.5.1
