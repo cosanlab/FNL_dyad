@@ -261,7 +261,7 @@ protobuf==3.7.0
 prov==1.5.0
 psychopy-tools==0.1.0
 ptyprocess==0.5.1
-py==1.5.2
+py==1.10.0
 pyabf==0.1.17
 pyasn1==0.4.2
 pyasn1-modules==0.2.1
