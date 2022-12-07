@@ -32,7 +32,7 @@ brainiak==0.8
 bz2file==0.98
 CacheControl==0.12.5
 cachetools==2.0.1
-certifi==2017.11.5
+certifi==2022.12.7
 cffi==1.10.0
 chardet==3.0.4
 cili==0.5.3
