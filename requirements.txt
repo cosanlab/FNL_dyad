@@ -155,7 +155,7 @@ imutils==0.4.3
 incremental==17.5.0
 indexed-gzip==0.7.0
 ipykernel==4.6.1
-ipython==5.3.0
+ipython==8.10.0
 ipython-genutils==0.2.0
 ipywidgets==7.4.2
 isodate==0.6.0
