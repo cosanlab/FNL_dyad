@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/240111785.svg)](https://zenodo.org/badge/latestdoi/240111785)
+
 # Synchronized affect in shared experiences strengthens social connection
 This repository contains code and resources for the paper: 
 
