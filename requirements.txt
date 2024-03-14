@@ -165,7 +165,7 @@ jdcal==1.3
 jedi==0.10.2
 jinja2-sanic==0.1.2
 jmespath==0.9.3
-joblib==0.11
+joblib==1.2.0
 -e git+https://github.com/Who8MyLunch/Jupyter_Video_Widget.git@a179f2f9ebbb3e4b35889803d1b931d3bd075018#egg=jpy_video
 jsonschema==2.6.0
 jupyter==1.0.0
